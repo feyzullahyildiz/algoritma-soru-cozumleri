@@ -39,3 +39,4 @@ for (var index = 0; index < ilkSayiBolunenler.length; index++) {
 }
 
 console.log('EBOB: ', EBOB)
+console.log('EKOK: ', ilkSayi * ikinciSayi / EBOB)
